@@ -10,5 +10,5 @@ This repository contains notes about SQL from the youtuber [Data with Baraa's](h
 | CHAPTER   | CONTENT                                                                                                                                                                            |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CHAPTER 1 |                                                                                                                                                                                    |
-| CHAPTER 2 | |
+| CHAPTER 2 | [Comments](./Chapter 2 Query Data/Comments) |
 |           |    |
