@@ -13,6 +13,6 @@ A comment is text that SQL ignores when running a query. Use `--` for single-lin
 */
 ```
 ---
-[Go to Index](./README.md) | [Next Page: Select all columns](./Select%20All%20Columns.md)
+[Go to Index](../README.md) | [Next Page: Select all columns](./Select%20All%20Columns.md)
 
 
