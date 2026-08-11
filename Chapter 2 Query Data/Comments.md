@@ -13,4 +13,5 @@ A comment is text that SQL ignores when running a query. Use `--` for single-lin
 */
 ```
 ---
-[Go to Index](./README.md) | [Next Page : Select all coloumns](./Chapter 2 Query Data/Select all Coloumns.md)
+[Go to Index](./README.md) | [Next Page : Select all coloumns](./Chapter%202%20Query%20Data/Comments.md)
+
