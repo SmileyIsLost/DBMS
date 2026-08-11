@@ -1,6 +1,7 @@
 # Select All Columns
 Selecting all columns means using SELECT * to retrieve every field from a table
 
+## Problems
 ```sql
 -- Retrieve All Customer Data
 SELECT *
