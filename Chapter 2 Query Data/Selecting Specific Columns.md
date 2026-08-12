@@ -25,4 +25,4 @@ FROM customers
 [Revising The Select Query I : Hacker Rank](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)
 
 ---
-[Previous Page : Select All Columns](./Select%20All%20Columns.md) | [Next Page : Operators in SQL](./Where%20Clause.md) | [Return To Index](../README.md)
+[Previous Page : Select All Columns](./Select%20All%20Columns.md) | [Next Page : Where Clause](./Where%20Clause.md) | [Return To Index](../README.md)
