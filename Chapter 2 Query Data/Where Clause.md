@@ -93,6 +93,15 @@ WHERE score <= 500
 | 5 | Peter | USA | 0 |
 
 ## Logical Operator
+```sql
+-- Retrive all customers who are from USA and have a score greater than 500
+SELECT *
+FROM customers
+WHERE country = 'USA' AND score > 500
+```
+| id | first_name | country | score |
+|---:|------------|----------|------:|
+| 2 | John | USA | 900 |
 
 ```sql
 -- Retrive all customers who are either from USA or have a score greater than 500
