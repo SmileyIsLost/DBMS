@@ -34,4 +34,4 @@ FROM orders
 [Select all SQL : Hacker Rank](https://www.hackerrank.com/challenges/select-all-sql/submissions/code/450500971)
 ---
 
-[Previous Page : Comments](./Comments.md) | [Next Page : Selecting Specific Columns](./Selecting%20Specific%20Columns) | [Return to Index](../README.md)
+[Previous Page : Comments](./Comments.md) | [Next Page : Selecting Specific Columns](./Selecting%20Specific%20Columns.md) | [Return to Index](../README.md)
