@@ -33,4 +33,6 @@ FROM orders
 
 [Previous Page : Comments](./Comments.md) | [Next Page : Selecting Specific Columns](./Selecting%20Specific%20Columns)
 ---
+## Practice
+[Select all SQL](https://www.hackerrank.com/challenges/select-all-sql/submissions/code/450500971)
 [Return to Index](../README.md)
