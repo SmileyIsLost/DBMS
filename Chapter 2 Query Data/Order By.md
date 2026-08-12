@@ -1,6 +1,13 @@
 # Order By
 The ORDER BY clause in SQL sorts a query's result set in ascending (ASC, default) or descending (DESC) order based on one or more specified columns.
 
+## Syntax
+```sql
+SELECT *
+FROM Table
+WHERE Condition
+```
+
 ## Problem
 
 ```sql
