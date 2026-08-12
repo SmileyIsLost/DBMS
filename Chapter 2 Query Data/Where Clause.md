@@ -1,6 +1,11 @@
 # Where Clause
 A WHERE clause filters rows based on a condition (e.g., only customers from Germany or orders with sales > 10), so only matching records appear in the results.
-
+## Syntax
+```sql
+SELECT *
+FROM Table
+WHERE Condition
+```
 ## Problem
 ```sql
 -- Retrieve customers with a score not equal to 0
