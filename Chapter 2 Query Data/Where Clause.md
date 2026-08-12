@@ -91,5 +91,16 @@ WHERE score <= 500
 | 4 | Martin | Germany | 500 |
 | 5 | Peter | USA | 0 |
 
+```sql
+-- Retrive all customers who are either from USA or have a score greater than 500
+SELECT *
+FROM customers
+WHERE country = 'USA' OR score > 500
+```
+| id | first_name | country | score |
+|---:|------------|----------|------:|
+| 2 | John | USA | 900 |
+| 3 | Georg | UK | 750 |
+| 5 | Peter | USA | 0 |
 ---
 [Previous Page : Selecting Specific Columns](./Selecting%20Specific%20Columns.md) | [Next Page : Order By](./Order%20By.md) | [Return to Index](../README.md)
