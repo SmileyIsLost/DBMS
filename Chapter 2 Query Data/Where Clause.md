@@ -43,4 +43,4 @@ WHERE country = 'Germany'
 | Martin     | Germany |
 
 ---
-[Previous Page : Operators in SQL](./Selecting%20Specific%20Columns.md) | [Next Page : Order By](./Order%20By.md) | [Return to Index](../README.md)
+[Previous Page : Selecting Specific Columns](./Selecting%20Specific%20Columns.md) | [Next Page : Order By](./Order%20By.md) | [Return to Index](../README.md)
