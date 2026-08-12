@@ -29,9 +29,11 @@ FROM orders
 |     1003 |           3 | 2021-06-18 |    20 |
 |     1004 |           6 | 2021-08-31 |    10 |
 
-
+---
 ## Practice
+
 [Select all SQL : Hacker Rank](https://www.hackerrank.com/challenges/select-all-sql/submissions/code/450500971)
+
 ---
 
 [Previous Page : Comments](./Comments.md) | [Next Page : Selecting Specific Columns](./Selecting%20Specific%20Columns.md) | [Return to Index](../README.md)
