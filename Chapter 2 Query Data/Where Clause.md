@@ -1,6 +1,7 @@
 # Where Clause
 A WHERE clause filters rows based on a condition (e.g., only customers from Germany or orders with sales > 10), so only matching records appear in the results.
 
+## Comparison Operator
 
 ```sql
 -- Retrieve customers with a score not equal to 0
@@ -91,6 +92,8 @@ WHERE score <= 500
 | 4 | Martin | Germany | 500 |
 | 5 | Peter | USA | 0 |
 
+## Logical Operator
+
 ```sql
 -- Retrive all customers who are either from USA or have a score greater than 500
 SELECT *
@@ -103,4 +106,4 @@ WHERE country = 'USA' OR score > 500
 | 3 | Georg | UK | 750 |
 | 5 | Peter | USA | 0 |
 ---
-[Previous Page : Selecting Specific Columns](./Selecting%20Specific%20Columns.md) | [Next Page : Order By](./Order%20By.md) | [Return to Index](../README.md)
+[Previous Page : Operators in SQL](./Operators.md) | [Next Page : Order By](./Order%20By.md) | [Return to Index](../README.md)
