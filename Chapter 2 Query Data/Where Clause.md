@@ -1,5 +1,6 @@
 # Where Clause
 A WHERE clause filters rows based on a condition (e.g., only customers from Germany or orders with sales > 10), so only matching records appear in the results.
+It Filters Data Before Aggregation
 ## Syntax
 ```sql
 SELECT *
