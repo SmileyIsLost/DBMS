@@ -42,3 +42,7 @@ HAVING AVG(score) > 430
 |---|---:|
 | UK | 750 |
 | USA | 900 |
+
+---
+
+[Previous Page : Group By](./Group%20By.md) | [Next Page : Distinct](./Distinct.md) | [Return to Index](../README.md)
