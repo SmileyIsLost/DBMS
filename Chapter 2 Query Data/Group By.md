@@ -46,4 +46,4 @@ GROUP BY country
 ```
 ---
 
-[Previous Page : Where Clause](./Where%20Clause.md) | [Next Page : Having Clause](./Having%20Clause.md) | [Return to Index](../README.md)
+[Previous Page : Order By](./Order%20By.md) | [Next Page : Having Clause](./Having%20Clause.md) | [Return to Index](../README.md)
