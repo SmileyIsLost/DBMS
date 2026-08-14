@@ -57,4 +57,4 @@ ORDER BY order_date DESC
 
 ---
 
-[Previous Page : Distinct](./Distinct.md) | [Next Page : Query Problems](./Query%20Problems.md) | [Return to Index](../README.md) 
+[Previous Page : Distinct](./Distinct.md) | [Next Page : Order in SQL](./Order-in-SQL.md) | [Return to Index](../README.md) 
