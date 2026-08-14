@@ -24,4 +24,4 @@ FROM customers
 
 ---
 
-[Previous Page : Having Clause](./Where%20Clause.md) | [Next Page : ]() | [Return to Index](../README.md)
+[Previous Page : Having Clause](./Where%20Clause.md) | [Next Page : ](./Top.md) | [Return to Index](../README.md)
