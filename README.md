@@ -3,7 +3,7 @@
 ## Why This?
 This is a collection of notes on SQL tutorials and problems across the internet.
 
-This repository contains notes about SQL from the YouTuber [Data with Baraa's](https://www.youtube.com/@DataWithBaraa) [SQL playlist](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=0IYiLIjPo2BKoQ7v)
+This repository contains notes about SQL from the YouTuber [Data with Baraa's](https://www.youtube.com/@DataWithBaraa) [SQL playlist](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=0IYiLIjPo2BKoQ7v) and multiple other free sources
 
 ## INDEX
 
