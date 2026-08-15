@@ -18,15 +18,15 @@ This repository contains notes about SQL from the YouTuber [Data with Baraa's](h
   <summary>Chapter 2 - Query Data</summary>
 
   - [COMMENTS](./Chapter%202%20Query%20Data/Comments.md)
-  - SELECT ALL COLUMNS
-  - SELECT SPECIFIC COLUMNS
-  - WHERE CLAUSE
-  - ORDER BY
-  - GROUP BY
-  - HAVING
-  - DISTINCT
-  - TOP
-  - Writing Order in SQL
+  - [SELECT ALL COLUMNS](./Chapter%202%20Query%20Data/Select%20All%20Columns.md)
+  - [SELECT SPECIFIC COLUMNS](./Chapter%202%20Query%20Data/Selecting%20Specific%20Columns.md)
+  - [WHERE CLAUSE](./Chapter%202%20Query%20Data/Where%20Clause.md)
+  - [ORDER BY](./Chapter%202%20Query%20Data/Order%20By.md)
+  - [GROUP BY](./Chapter%202%20Query%20Data/Group%20By.md)
+  - [HAVING](./Chapter%202%20Query%20Data/Having%20Clause.md)
+  - [DISTINCT](./Chapter%202%20Query%20Data/Distinct.md)
+  - [TOP](./Chapter%202%20Query%20Data/Top.md)
+  - [Writing Order in SQL](./Chapter%202%20Query%20Data/Order-in-SQL.md)
 </details>
 
 
