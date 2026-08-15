@@ -1,5 +1,4 @@
-# DBMS-TUTORIAL
-
+# EVERYTHING ABOUT DBMS
 ## Why This?
 This is a collection of notes on SQL tutorials and problems across the internet.
 
